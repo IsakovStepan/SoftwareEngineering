@@ -340,7 +340,7 @@ print("Стороны (min): ", (a_min, b_min, c_min), "Площадь:", area_m
 
 ### Результат
 
-![Меню]()
+![Меню](https://github.com/IsakovStepan/SoftwareEngineering/blob/Tema_5/pic/Sam3.png)
 
 ### Вывод
 
